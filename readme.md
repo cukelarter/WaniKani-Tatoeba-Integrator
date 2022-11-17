@@ -1,0 +1,1 @@
+Retreive sentences from Tatoeba based on current learning assignments in WaniKani. 
